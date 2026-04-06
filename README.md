@@ -23,3 +23,10 @@ python -m uvicorn num:app
 
 Open:
 http://127.0.0.1:8000/docs
+## Screenshots
+
+<img src="screenshot1.png" width="700">
+
+<img src="screenshot2.png" width="700">
+
+<img src="screenshot3.png" width="700">
